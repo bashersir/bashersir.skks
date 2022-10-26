@@ -1,5 +1,6 @@
-This item has been downloaded from the Bootstrap.Build - https://bootstrap.build/
+Thanks for downloading this template!
 
-Sponsored by Designmodo - https://designmodo.com/ (Free Bootstrap Builder, theme and templates.)
-
-We'll be happy if you will mention https://bootstrap.build/ into your projects!
+Template Name: NiceAdmin
+Template URL: https://bootstrapmade.com/nice-admin-bootstrap-admin-html-template/
+Author: BootstrapMade.com
+License: https://bootstrapmade.com/license/
