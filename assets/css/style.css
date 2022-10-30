@@ -838,7 +838,8 @@ h6 {
 
 .dashboard .sales-card .card-icon {
   color: #4154f1;
-  background: #f6f6fe;
+  /*background: #f6f6fe*/
+  background-color: #daf307;
 }
 
 .dashboard .revenue-card .card-icon {
