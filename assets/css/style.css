@@ -67,6 +67,11 @@ iframe#loan-receive-details {
   margin: 0 auto;
   width: 100%;
 }
+iframe#basher_sheets {
+  display: block;
+  margin: 0 auto;
+  width: 100%;
+}
 
 }
 
