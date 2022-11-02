@@ -62,19 +62,24 @@ h6 {
     margin: 0 auto;
     width: 100%;
 }
-iframe#loan-receive-details {
-  display: block;
-  margin: 0 auto;
-  width: 100%;
-}
-iframe#basher_sheets {
-  display: block;
-  margin: 0 auto;
-  width: 100%;
+  iframe#loan-receive-details {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
 }
 
 }
 
+/*--------------------------------------------------------------
+# Basher Page Start
+--------------------------------------------------------------*/
+@media (max-width: 700px){
+  iframe#basher_sheets {
+    display: block;
+    margin: 0 auto;
+    width: 100%;
+  }
+}
 /*--------------------------------------------------------------
 # Page Title
 --------------------------------------------------------------*/
