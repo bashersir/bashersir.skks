@@ -55,11 +55,11 @@ h6 {
 /*--------------------------------------------------------------
 # Forms
 --------------------------------------------------------------*/
-@media (min-width: 1200px) {
+@media (min-width: 600px) {
 
   #loan_applications{
     display: block;
-    width: 100%;
+    width: 300px;
     margin: 0 auto;
   }
 }
