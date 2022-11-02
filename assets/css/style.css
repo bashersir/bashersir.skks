@@ -62,7 +62,7 @@ h6 {
     margin: 0 auto;
     width: 100%;
 }
-iframe {
+iframe#loan-receive-details {
   display: block;
   margin: 0 auto;
   width: 100%;
